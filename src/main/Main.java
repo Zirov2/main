@@ -22,7 +22,7 @@ public class Main {
          Scanner leer = new Scanner(System.in);
         System.out.println("Ingrese un numero entero: ");
         int num = leer.nextInt();
-        
+         
     }
     
 }
