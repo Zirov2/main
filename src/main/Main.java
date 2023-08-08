@@ -4,6 +4,8 @@
  */
 package main;
 
+import java.util.Scanner;
+
 /**
  *
  * @author 9 Reinas Sur
@@ -17,6 +19,9 @@ public class Main {
         // TODO code application logic here
         
         System.out.println("Hola cracks");
+         Scanner leer = new Scanner(System.in);
+        System.out.println("Ingrese un numero entero: ");
+        int num = leer.nextInt();
         
     }
     
